@@ -147,6 +147,6 @@ Incluye tu licencia preferida aquí (por ejemplo MIT) o deja este apartado vací
 Créditos
 -------
 - Motor: Pygame
-- Desarrollador: Hugo David Rosas Labra ( Universidad Politecnica de Santa Rosa Jauregui ) 
+- Desarrollador: jesus espinoza collazo ( Universidad Politecnica de Santa Rosa Jauregui ) 
 
 Gracias por jugar y por construir este proyecto si es que lo quieres modificar , buena suerte !.
